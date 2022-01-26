@@ -12,4 +12,5 @@ Using the [beauifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 ## Results 
  ![out](https://github.com/Akhil-Sharma30/wrapping-text/blob/master/out.csv)
 
+ > the output for this project is this file ![out.csv](https://github.com/Akhil-Sharma30/wrapping-text/blob/master/out.csv)
  
