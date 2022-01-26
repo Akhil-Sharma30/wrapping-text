@@ -12,5 +12,5 @@ Using the [beauifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 ## Results 
  ![out](https://cdn.discordapp.com/attachments/791693053488005120/935832930868158485/a.png)
 
- > the output for this project is this file ![out.csv](https://github.com/Akhil-Sharma30/wrapping-text/blob/master/out.csv)
+ > the output for this project is this file [out.csv](https://github.com/Akhil-Sharma30/wrapping-text/blob/master/out.csv)
  
