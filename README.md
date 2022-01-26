@@ -10,6 +10,6 @@ Using the [beauifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 > The site used for the project is [wiki-top-views](https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos)
 
 ## Results 
- ![out](https://cdn.discordapp.com/attachments/791693053488005120/935830743190495232/a.png)
+ ![out.csv](https://github.com/Akhil-Sharma30/wrapping-text/blob/master/out.csv)
 
  
